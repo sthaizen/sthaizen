@@ -42,16 +42,7 @@
 
 
 
-<div align="center">
-  <h3>⭐️ Best Repositories</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/sthaizen/Zaplist.git">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=sthaizen&repo=Zaplist&theme=tokyonight" /></a>
-    <a href="https://github.com/sthaizen/Urban-Complaint-Analytics-using-NYC-311-Data.git">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=sthaizen&repo=Urban-Complaint-Analytics-using-NYC-311-Data&theme=tokyonight" />    </a>
-      <a href="https://github.com/sthaizen/AuraTimes.git">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=sthaizen&repo=AuraTimes&theme=tokyonight" /></a>
-    </div>
+
 
 
 
