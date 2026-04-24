@@ -17,15 +17,7 @@
 
 
 
-<h3 align="center">🌱 Github Status</h3>
 
-<p align="center">
-   <img width="398" src="https://github-readme-stats.vercel.app/api?username=sthaizen&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=8"/> 
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=sthaizen&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"><br/>
- 
-</p>
-
-<br>
 
 <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
 
